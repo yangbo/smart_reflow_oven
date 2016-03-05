@@ -1,0 +1,10 @@
+This is a reflow oven electronics design inspired by Controleo2 project.
+
+
+This project 'smart reflow oven' provides a controller composed with Arduino Leonardo board and a 'SmartReflow Shield'.
+
+This is the initial version so I designed the PCB with some through hole elements, because I want to build the prototype with some through hole elements and a wire-wrap board, but you can use the Schematic and layout your own SMD PCB.
+
+Thanks for Controleo2 project provide a great Arduino control program.
+
+Any comments are welcome, please contact me at bob.yang.dev@gmail.com.

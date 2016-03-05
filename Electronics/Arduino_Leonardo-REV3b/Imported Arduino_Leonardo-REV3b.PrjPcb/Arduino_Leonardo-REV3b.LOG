@@ -1,0 +1,86 @@
+Importer Log Report
+Project : Arduino_Leonardo-REV3b.PrjPcb
+
+Section : Analyze Document - E:\gits\ReflowOven\Electronics\Arduino_Leonardo-REV3b\Arduino_Leonardo-REV3b.brd
+    Analyzing data of E:\gits\ReflowOven\Electronics\Arduino_Leonardo-REV3b\Arduino_Leonardo-REV3b.brd
+    Load settings
+    Load layers 105
+    Load Library "rcl"
+    Load Packages 2
+    Load Library "diode"
+    Load Packages 2
+    Load Library "led"
+    Load Packages 1
+    Load Library "linear"
+    Load Packages 2
+    Load Library "SmartPrj"
+    Load Packages 16
+    Load Library "varistor"
+    Load Packages 1
+    Load Library "wuerth-elektronik"
+    Load Packages 1
+    Load Library "resistor-dil"
+    Load Packages 1
+    Load Library "zetex"
+    Load Packages 1
+EndSection
+
+Section : Analyze Document - E:\gits\ReflowOven\Electronics\Arduino_Leonardo-REV3b\Arduino_Leonardo-REV3b.sch
+    Analyzing data of E:\gits\ReflowOven\Electronics\Arduino_Leonardo-REV3b\Arduino_Leonardo-REV3b.sch
+    Load settings
+    Load layers 105
+    Load schematic
+    Load Libraries 12
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "rcl"
+    Load Packages 238
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "diode"
+    Load Packages 62
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "led"
+    Load Packages 34
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "linear"
+    Load Packages 3
+    Load Symbols 3
+    Load DeviceSets 2
+    Load Library "SmartPrj"
+    Load Packages 169
+    Load Symbols 14
+    Load DeviceSets 14
+    Load Library "varistor"
+    Load Packages 34
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "wuerth-elektronik"
+    Load Packages 7
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "resistor-dil"
+    Load Packages 12
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "MyPOW"
+    Load Packages 0
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "supply2"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "zetex"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 5
+    Load Parts 89
+    Load Sheets 1
+EndSection
